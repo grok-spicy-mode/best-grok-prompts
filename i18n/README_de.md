@@ -1,6 +1,6 @@
 # Best Grok Prompts - Die Ultimative Sammlung für Grok AI
 
-[Español](README_es.md) | [English](README.md) | [Português](README_pt.md) | [Русский](README_ru.md) | [Français](README_fr.md) | **Deutsch** | [العربية](README_ar.md) | [한국어](README_ko.md) | [Tiếng Việt](README_vi.md) | [日本語](README_ja.md) | [简体中文](README_zh-CN.md) | [繁體中文](README_zh-TW.md)
+[Español](README_es.md) | [English](../README.md) | [Português](README_pt.md) | [Русский](README_ru.md) | [Français](README_fr.md) | **Deutsch** | [العربية](README_ar.md) | [한국어](README_ko.md) | [Tiếng Việt](README_vi.md) | [日本語](README_ja.md) | [简体中文](README_zh-CN.md) | [繁體中文](README_zh-TW.md)
 
 ---
 
