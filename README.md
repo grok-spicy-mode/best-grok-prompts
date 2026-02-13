@@ -590,6 +590,24 @@ Cite sources with dates.
 
 ---
 
+## Free Online Tools
+
+Try these AI-powered tools at [GrokPrompts.app](https://grokprompts.app) — all free to start:
+
+| Tool | Description | Link |
+|------|-------------|------|
+| **Text to Image** | Generate AI images with Grok Spicy Mode | [Try Free →](https://grokprompts.app/spicy-image) |
+| **Text to Video** | Create AI videos from text prompts | [Try Free →](https://grokprompts.app/spicy-video) |
+| **Image to Image** | Style transfer & editing | [Try Free →](https://grokprompts.app/spicy-image-to-image) |
+| **Image to Video** | Animate your images with AI | [Try Free →](https://grokprompts.app/spicy-image-to-video) |
+| **Video to Video** | Transform video styles with AI | [Try Free →](https://grokprompts.app/spicy-video-to-video) |
+| **Prompt Library** | Browse 1000+ curated grok prompts | [Browse →](https://grokprompts.app/prompts) |
+| **Prompt Generator** | AI-powered prompt creation | [Generate →](https://grokprompts.app/grok-prompt-generator) |
+
+> All tools include **25 free credits** — no credit card required.
+
+---
+
 ## Guides
 
 Master Grok prompting with our comprehensive guides:
